@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>Amir Mohammad Ghaderi . I am a front end developer. I started my career 3 years ago with JavaScript and TypeScript language. I have focused deeply on the front-end environment and working with tools such as React.js , Next.js
+Hi there 👋<br>I am Amir Mohammad Ghaderi .a front end developer. I started my career 3 years ago with JavaScript and TypeScript language. I have focused deeply on the front-end environment and working with tools such as React.js , Next.js
 
 
 ## 🌐 Socials:
